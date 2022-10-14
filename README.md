@@ -7,7 +7,7 @@ The purpose of the PyBer analysis is to analyze all the rideshare data from Janu
 
 ## Results  
 The analysis of the ridesharing data yields the following:
-- The Urban area has the highest number of riders and fares yet the ```Average Fare per Driver``` is lower than those in Rural and Suburban areas (30% and 42% respectively).
+- The Urban area has the highest number of riders and fares yet the ```Average Fare per Driver``` is lower than those in Rural and Suburban areas.
 - The ```Average Fare per Driver``` for Rural area is 3.3x more than Urban area and Suburban area is 2.4x more than Urban area.
 - The ```Average Fare Per Ride``` is higher in the Rural area compared to Suburban and Rural areas.
 - The Urban area generated more fares than the Rural and Suburban area combined, approximately 1.7x more.
